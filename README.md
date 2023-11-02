@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="./img/github-header-image.png" alt="Jose Antonio" /></a>
+    <img src="./img/header.png" alt="Jose Antonio" /></a>
 </p>
 
 <p align="center">

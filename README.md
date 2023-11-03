@@ -45,14 +45,14 @@
   <summary><h2>📘 My Latest Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/josecalamaco234/tax-calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=star1010secret&repo=video-trim&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="tax-calculator"></a>
-    <a href="https://github.com/josecalamaco234/my-crm-call-center"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=star1010secret&repo=wine-service-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="my-crm-call-center"></a>
-    <a href="https://github.com/josecalamaco234/quiz"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=star1010secret&repo=wine-service-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="quiz"></a>
-    <a href="https://github.com/josecalamaco234/wine-shop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=star1010secret&repo=wine-service-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="wine-shop"></a>
-    <a href="https://github.com/josecalamaco234/threejs-nextjs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=star1010secret&repo=wine-service-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="threejs-nextjs"></a>
-    <a href="https://github.com/josecalamaco234/digital-business-card"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=star1010secret&repo=wine-service-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="digital-business-card"></a>
-    <a href="https://github.com/josecalamaco234/videoeditor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=star1010secret&repo=wine-service-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="videoeditor"></a>
-    <a href="https://github.com/josecalamaco234/DemoTrading"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=star1010secret&repo=wine-service-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="DemoTrading"></a>
+    <a href="https://github.com/josecalamaco234/tax-calculator"><img width="278" src="./img/tax-calculator.png" alt="tax-calculator"></a>
+    <a href="https://github.com/josecalamaco234/my-crm-call-center"><img width="278" src="./img/crm-call-center.png" alt="my-crm-call-center"></a>
+    <a href="https://github.com/josecalamaco234/quiz"><img width="278" src="./img/quiz.png" alt="quiz"></a>
+    <a href="https://github.com/josecalamaco234/wine-shop"><img width="278" src="./img/wine.png" alt="wine-shop"></a>
+    <a href="https://github.com/josecalamaco234/threejs-nextjs"><img width="278" src="./img/threejs-nextjs.png" alt="threejs-nextjs"></a>
+    <a href="https://github.com/josecalamaco234/digital-business-card"><img width="278" src="./img/digital-business-card.png" alt="digital-business-card"></a>
+    <a href="https://github.com/josecalamaco234/videoeditor"><img width="278" src="./img/video-editor.png" alt="videoeditor"></a>
+    <a href="https://github.com/josecalamaco234/DemoTrading"><img width="278" src="./img/demo-trading.png" alt="DemoTrading"></a>
   </p>
 
 <a href="https://github.com/josecalamaco234?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
